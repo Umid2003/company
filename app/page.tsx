@@ -7,7 +7,7 @@ import Main from './components/Main';
 const Page = () => {
   return (
     <div>
-      <Main/>
+      <Main/> 
     </div>
   )
 }
